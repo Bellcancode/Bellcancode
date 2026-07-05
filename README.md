@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bellcancode
-- 👀 I’m interested in learning more in web development
-- 🌱 I’m currently learning frontend dev
+- 👀 learning never ends
+- 🌱  frontend developer,data annotation and more
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
